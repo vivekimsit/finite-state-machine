@@ -1,0 +1,23 @@
+{
+  "name": "finite-state-machine",
+  "version": "0.0.0",
+  "description": "FSM implementation in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "utility",
+    "cs"
+  ],
+  "author": "vivek poddar <vivekimsit@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vivekimsit/finite-state-machine/issues"
+  },
+  "homepage": "https://github.com/vivekimsit/finite-state-machine",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
